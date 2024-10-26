@@ -1,4 +1,4 @@
-# RAG-based-QA-for-board-games
+# Custom-RAG-based-QA-System
 
 ## How to Run?
 ### To add new docs
